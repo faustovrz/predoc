@@ -1,54 +1,288 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{Filipelli:6Zj8wyph}
+\bibitem{abraham2014}
+K.~J. Abraham and C.~Diaz.
+\newblock Identifying large sets of unrelated individuals and unrelated
+  markers.
+\newblock {\em Source Code for Biology and Medicine}, 9(1):6, Mar. 2014.
+
+\bibitem{aguilarrangel2018}
+M.~R. Aguilar~Rangel.
+\newblock {\em The role of introgression from teosinte ({Zea} mays ssp.
+  mexicana) in the adaptation of maize to the highlands of {Mexico}}.
+\newblock Ph.{D}., CINVESTAV Unidad Irapuato, Irapuato, 2018.
+
+\bibitem{alexander2009}
+D.~H. Alexander, J.~Novembre, and K.~Lange.
+\newblock Fast model-based estimation of ancestry in unrelated individuals.
+\newblock {\em Genome Research}, 19(9):1655--1664, Sept. 2009.
+
+\bibitem{batjes2011}
+N.~H. Batjes.
+\newblock Global distribution of soil phosphorus retention potential.
+\newblock Technical report, ISRIC-World Soil Information, Wageningen, 2011.
+\newblock Data available at
+  https://files.isric.org/public/other/Global\_distribution\_of\_soil\_phosphorus\_retention\_potential.zip.
+
+\bibitem{bayuelo-jimenez2011}
+J.~S. Bayuelo-Jiménez, M.~Gallardo-Valdéz, V.~A. Pérez-Decelis,
+  L.~Magdaleno-Armas, I.~Ochoa, and J.~P. Lynch.
+\newblock Genotypic variation for root traits of maize ({Zea} mays {L}.) from
+  the {Purhepecha} {Plateau} under contrasting phosphorus availability.
+\newblock {\em Field Crops Research}, 121(3):350--362, Apr. 2011.
+
+\bibitem{bayuelo-jimenez2014}
+J.~S. Bayuelo-Jiménez and I.~Ochoa-Cadavid.
+\newblock Phosphorus acquisition and internal utilization efficiency among
+  maize landraces from the central {Mexican} highlands.
+\newblock {\em Field Crops Research}, 156:123--134, Feb. 2014.
+
+\bibitem{bradbury2007}
+P.~J. Bradbury, Z.~Zhang, D.~E. Kroon, T.~M. Casstevens, Y.~Ramdoss, and E.~S.
+  Buckler.
+\newblock {TASSEL}: software for association mapping of complex traits in
+  diverse samples.
+\newblock {\em Bioinformatics}, 23(19):2633--2635, Oct. 2007.
+
+\bibitem{calderon-vazquez2011}
+C.~Calderon-Vazquez, R.~J.~H. Sawers, and L.~Herrera-Estrella.
+\newblock Phosphate {Deprivation} in {Maize}: {Genetics} and {Genomics}.
+\newblock {\em PLANT PHYSIOLOGY}, 156(3):1067--1077, July 2011.
+
+\bibitem{chen2010}
+H.~Chen, N.~Patterson, and D.~Reich.
+\newblock Population differentiation as a test for selective sweeps.
+\newblock {\em Genome Research}, 20(3):393--402, Mar. 2010.
+
+\bibitem{danecek2011}
+P.~Danecek, A.~Auton, G.~Abecasis, C.~A. Albers, E.~Banks, M.~A. DePristo,
+  R.~E. Handsaker, G.~Lunter, G.~T. Marth, S.~T. Sherry, G.~McVean, and
+  R.~Durbin.
+\newblock The variant call format and {VCFtools}.
+\newblock {\em Bioinformatics}, 27(15):2156--2158, Aug. 2011.
+
+\bibitem{demeeus2007}
+T.~de~Meeûs and J.~Goudet.
+\newblock A step-by-step tutorial to use {HierFstat} to analyse populations
+  hierarchically structured at multiple levels.
+\newblock {\em Infection, Genetics and Evolution}, 7(6):731--735, Dec. 2007.
+
+\bibitem{evanno2005}
+G.~Evanno, S.~Regnaut, and J.~Goudet.
+\newblock Detecting the number of clusters of individuals using the software
+  structure: a simulation study.
+\newblock {\em Molecular Ecology}, 14(8):2611--2620, July 2005.
+
+\bibitem{fao1974a}
+{FAO} and {UNESCO}.
+\newblock Soil {Map} of the {World} 1: 5000000, {Vol}. {I}, {Legend}.
+\newblock 1974.
+
+\bibitem{fao1995}
+{FAO} and {UNESCO}.
+\newblock {\em Digital soil map of the world and derived soil properties}.
+\newblock FAO, Rome, Italy, [version 3.5] edition, 1995.
+
+\bibitem{faogis1999}
+{FAO GIS} and {WRB}.
+\newblock Dominant {Soils} of the {World} {Map}.
+\newblock Aug. 1999.
+\newblock Available at https://chemistry.beloit.edu/Rain/pages/soil99.html.
+
+\bibitem{filipelli2016}
 G.~M. Filipelli.
-\newblock {The global phosphorus cycle}.
-\newblock In B.~A.~S. Rattan~Lal, editor, {\em Soil Phosphorus}. CRC Press, 07
+\newblock The global phosphorus cycle.
+\newblock In B.~A.~S. Rattan~Lal, editor, {\em Soil {Phosphorus}}. CRC Press,
   2016.
 
-\bibitem{Kawecki:2004hx}
+\bibitem{harvestchoice2010}
+{HarvestChoice}.
+\newblock Updating {Soil} {Functional} {Capacity} {Classification} {System}.
+\newblock {\em International Food Policy Research Institute Washington, DC.,
+  and University of Minnesota, St. Paul}, Feb. 2010.
+\newblock Available online at http://harvestchoice.org/node/1435.
+
+\bibitem{hastorf2009}
+C.~A. Hastorf.
+\newblock Rio {Balsas} most likely region for maize domestication.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  106(13):4957--4958, Mar. 2009.
+
+\bibitem{hengl2017}
+T.~Hengl, J.~M.~d. Jesus, G.~B.~M. Heuvelink, M.~R. Gonzalez, M.~Kilibarda,
+  A.~Blagotić, W.~Shangguan, M.~N. Wright, X.~Geng, B.~Bauer-Marschallinger,
+  M.~A. Guevara, R.~Vargas, R.~A. MacMillan, N.~H. Batjes, J.~G.~B. Leenaars,
+  E.~Ribeiro, I.~Wheeler, S.~Mantel, and B.~Kempen.
+\newblock {SoilGrids}250m: {Global} gridded soil information based on machine
+  learning.
+\newblock {\em PLOS ONE}, 12(2):e0169748, Feb. 2017.
+
+\bibitem{hijmans2017}
+R.~J. Hijmans.
+\newblock {\em raster: {Geographic} {Data} {Analysis} and {Modeling}}.
+\newblock 2017.
+
+\bibitem{hoagland1936}
+D.~R. Hoagland and T.~C. Broyer.
+\newblock {GENERAL} {NATURE} {OF} {THE} {PROCESS} {OF} {SALT} {ACCUMULATION}
+  {BY} {ROOTS} {WITH} {DESCRIPTION} {OF} {EXPERIMENTAL} {METHODS}.
+\newblock {\em PLANT PHYSIOLOGY}, 11(3):471--507, July 1936.
+
+\bibitem{karger2017}
+D.~N. Karger, O.~Conrad, J.~Böhner, T.~Kawohl, H.~Kreft, R.~W. Soria-Auza,
+  N.~E. Zimmermann, H.~P. Linder, and M.~Kessler.
+\newblock Climatologies at high resolution for the earth’s land surface
+  areas.
+\newblock {\em Scientific Data}, 4:170122, Sept. 2017.
+
+\bibitem{kawecki2004}
 T.~J. Kawecki and D.~Ebert.
-\newblock {Conceptual issues in local adaptation}.
-\newblock {\em Ecology Letters}, 7:1225 1241.
+\newblock Conceptual issues in local adaptation.
+\newblock {\em Ecology Letters}, 7(12):1225--1241, Dec. 2004.
 
-\bibitem{Peret:2011jd}
+\bibitem{lasky2015}
+J.~R. Lasky, H.~D. Upadhyaya, P.~Ramu, S.~Deshpande, C.~T. Hash, J.~Bonnette,
+  T.~E. Juenger, K.~Hyma, C.~Acharya, S.~E. Mitchell, E.~S. Buckler,
+  Z.~Brenton, S.~Kresovich, and G.~P. Morris.
+\newblock Genome-environment associations in sorghum landraces predict adaptive
+  traits.
+\newblock {\em Science Advances}, 1(6):e1400218, July 2015.
+
+\bibitem{lawson2018}
+D.~J. Lawson, L.~v. Dorp, and D.~Falush.
+\newblock A tutorial on how not to over-interpret {STRUCTURE} and {ADMIXTURE}
+  bar plots.
+\newblock {\em Nature Communications}, 9(1):3258, Aug. 2018.
+
+\bibitem{manichaikul2010}
+A.~Manichaikul, J.~C. Mychaleckyj, S.~S. Rich, K.~Daly, M.~Sale, and W.-M.
+  Chen.
+\newblock Robust relationship inference in genome-wide association studies.
+\newblock {\em Bioinformatics}, 26(22):2867--2873, Nov. 2010.
+
+\bibitem{pyhajarvi2013}
+T.~Pyhäjärvi, M.~B. Hufford, S.~Mezmouk, and J.~Ross-Ibarra.
+\newblock Complex {Patterns} of {Local} {Adaptation} in {Teosinte}.
+\newblock {\em Genome Biology and Evolution}, 5(9):1594--1609, Sept. 2013.
+
+\bibitem{peret2011}
 B.~Péret, M.~Clément, L.~Nussaume, and T.~Desnos.
-\newblock {Root developmental adaptation to phosphate starvation: better safe
-  than sorry.}
-\newblock {\em Trends in Plant Science}, 16:442 450.
+\newblock Root developmental adaptation to phosphate starvation: better safe
+  than sorry.
+\newblock {\em Trends in Plant Science}, 16(8):442--450, Aug. 2011.
 
-\bibitem{Savolainen:2013df}
+\bibitem{rcoreteam2018}
+{R Core Team}.
+\newblock {\em R: {A} {Language} and {Environment} for {Statistical}
+  {Computing}}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria, 2018.
+
+\bibitem{rodriguez-zapata2018}
+F.~Rodriguez-Zapata.
+\newblock {\em {soilP}: {Local} {Adapation} to {Soil} {Phosphorus}
+  {Availability}}.
+\newblock 2018.
+
+\bibitem{romeronavarro2017}
+J.~A. Romero~Navarro, M.~Willcox, J.~Burgueño, C.~Romay, K.~Swarts,
+  S.~Trachsel, E.~Preciado, A.~Terron, H.~V. Delgado, V.~Vidal, A.~Ortega,
+  A.~E. Banda, N.~O.~G. Montiel, I.~Ortiz-Monasterio, F.~S. Vicente, A.~G.
+  Espinoza, G.~Atlin, P.~Wenzl, S.~Hearne, and E.~S. Buckler.
+\newblock A study of allelic diversity underlying flowering-time adaptation in
+  maize landraces.
+\newblock {\em Nature Genetics}, 49(3):476--480, Mar. 2017.
+
+\bibitem{salazar-vidal2016}
+M.~N. Salazar-Vidal, E.~Acosta-Segovia, N.~Sánchez-León, K.~R. Ahern, T.~P.
+  Brutnell, and R.~J.~H. Sawers.
+\newblock Characterization and {Transposon} {Mutagenesis} of the {Maize} ({Zea}
+  mays) {Pho}1 {Gene} {Family}.
+\newblock {\em PLOS ONE}, 11(9):e0161882, Sept. 2016.
+
+\bibitem{sanchez2003}
+P.~A. Sanchez, C.~A. Palm, and S.~W. Buol.
+\newblock Fertility capability soil classification: a tool to help assess soil
+  quality in the tropics.
+\newblock {\em Geoderma}, 114(3-4):157--185, June 2003.
+
+\bibitem{savolainen2013}
 O.~Savolainen, M.~Lascoux, and J.~Merilä.
-\newblock {Ecological genomics of local adaptation}.
-\newblock {\em Nature Publishing Group}, 14:807 820, 11 2013.
+\newblock Ecological genomics of local adaptation.
+\newblock {\em Nature Reviews Genetics}, 14(11):807--820, Nov. 2013.
 
-\bibitem{Schachtman:1998vv}
-D.~Schachtman, R.~Reid, and S.~Ayling.
-\newblock {Phosphorus Uptake by Plants: From Soil to Cell}.
-\newblock {\em Plant Physiology}, 116:447 453, 02 1998.
+\bibitem{schachtman1998}
+D.~P. Schachtman, R.~J. Reid, and S.~Ayling.
+\newblock Phosphorus {Uptake} by {Plants}: {From} {Soil} to {Cell}.
+\newblock {\em Plant Physiology}, 116(2):447--453, Feb. 1998.
 
-\bibitem{Scheible:2015hx}
+\bibitem{scheible2015}
 W.-R. Scheible and M.~Rojas-Triana.
-\newblock {Sensing, signaLling, and CONTROL of phosphate starvation in plants:
-  molecular players and applications}.
-\newblock In {\em Annual Plant Reviews Volume 48}, volume 115, page 23 63. John
-  Wiley \& Sons, Inc., Hoboken, NJ, USA, 04 2015.
+\newblock Sensing, {signaLling}, and {CONTROL} of phosphate starvation in
+  plants: molecular players and applications.
+\newblock In {\em Annual {Plant} {Reviews} {Volume} 48}, volume 115, page 23
+  63. John Wiley \& Sons, Inc., Hoboken, NJ, USA, 2015.
 
-\bibitem{Tiffin:2014ft}
+\bibitem{schnable2009}
+P.~S. Schnable, D.~Ware, R.~S. Fulton, J.~C. Stein, F.~Wei, S.~Pasternak,
+  C.~Liang, J.~Zhang, L.~Fulton, T.~A. Graves, P.~Minx, A.~D. Reily,
+  L.~Courtney, S.~S. Kruchowski, C.~Tomlinson, C.~Strong, K.~Delehaunty,
+  C.~Fronick, B.~Courtney, S.~M. Rock, E.~Belter, F.~Du, K.~Kim, R.~M. Abbott,
+  M.~Cotton, A.~Levy, P.~Marchetto, K.~Ochoa, S.~M. Jackson, B.~Gillam,
+  W.~Chen, L.~Yan, J.~Higginbotham, M.~Cardenas, J.~Waligorski, E.~Applebaum,
+  L.~Phelps, J.~Falcone, K.~Kanchi, T.~Thane, A.~Scimone, N.~Thane, J.~Henke,
+  T.~Wang, J.~Ruppert, N.~Shah, K.~Rotter, J.~Hodges, E.~Ingenthron, M.~Cordes,
+  S.~Kohlberg, J.~Sgro, B.~Delgado, K.~Mead, A.~Chinwalla, S.~Leonard,
+  K.~Crouse, K.~Collura, D.~Kudrna, J.~Currie, R.~He, A.~Angelova,
+  S.~Rajasekar, T.~Mueller, R.~Lomeli, G.~Scara, A.~Ko, K.~Delaney,
+  M.~Wissotski, G.~Lopez, D.~Campos, M.~Braidotti, E.~Ashley, W.~Golser,
+  H.~Kim, S.~Lee, J.~Lin, Z.~Dujmic, W.~Kim, J.~Talag, A.~Zuccolo, C.~Fan,
+  A.~Sebastian, M.~Kramer, L.~Spiegel, L.~Nascimento, T.~Zutavern, B.~Miller,
+  C.~Ambroise, S.~Muller, W.~Spooner, A.~Narechania, L.~Ren, S.~Wei, S.~Kumari,
+  B.~Faga, M.~J. Levy, L.~McMahan, P.~Van~Buren, M.~W. Vaughn, K.~Ying, C.-T.
+  Yeh, S.~J. Emrich, Y.~Jia, A.~Kalyanaraman, A.-P. Hsia, W.~B. Barbazuk, R.~S.
+  Baucom, T.~P. Brutnell, N.~C. Carpita, C.~Chaparro, J.-M. Chia, J.-M.
+  Deragon, J.~C. Estill, Y.~Fu, J.~A. Jeddeloh, Y.~Han, H.~Lee, P.~Li, D.~R.
+  Lisch, S.~Liu, Z.~Liu, D.~H. Nagel, M.~C. McCann, P.~SanMiguel, A.~M. Myers,
+  D.~Nettleton, J.~Nguyen, B.~W. Penning, L.~Ponnala, K.~L. Schneider, D.~C.
+  Schwartz, A.~Sharma, C.~Soderlund, N.~M. Springer, Q.~Sun, H.~Wang,
+  M.~Waterman, R.~Westerman, T.~K. Wolfgruber, L.~Yang, Y.~Yu, L.~Zhang,
+  S.~Zhou, Q.~Zhu, J.~L. Bennetzen, R.~K. Dawe, J.~Jiang, N.~Jiang, G.~G.
+  Presting, S.~R. Wessler, S.~Aluru, R.~A. Martienssen, S.~W. Clifton, W.~R.
+  McCombie, R.~A. Wing, and R.~K. Wilson.
+\newblock The {B}73 {Maize} {Genome}: {Complexity}, {Diversity}, and
+  {Dynamics}.
+\newblock {\em Science}, 326(5956):1112--1115, Nov. 2009.
+
+\bibitem{shangguan2014}
+W.~Shangguan, Y.~Dai, Q.~Duan, B.~Liu, and H.~Yuan.
+\newblock A global soil data set for earth system modeling.
+\newblock {\em Journal of Advances in Modeling Earth Systems}, 6(1):249--263,
+  Mar. 2014.
+
+\bibitem{tiffin2014}
 P.~Tiffin and J.~Ross-Ibarra.
-\newblock {Advances and limits of using population genetics to understand local
-  adaptation}.
-\newblock {\em Trends in Ecology \& Evolution}, 29:673 680, 12 2014.
+\newblock Advances and limits of using population genetics to understand local
+  adaptation.
+\newblock {\em Trends in Ecology \& Evolution}, 29(12):673--680, Dec. 2014.
 
-\bibitem{WALKER19761}
+\bibitem{vielle-calzada2009}
+J.-P. Vielle-Calzada, O.~Martinez de~la Vega, G.~Hernandez-Guzman,
+  E.~Ibarra-Laclette, C.~Alvarez-Mejia, J.~C. Vega-Arreguin,
+  B.~Jimenez-Moraila, A.~Fernandez-Cortes, G.~Corona-Armenta,
+  L.~Herrera-Estrella, and A.~Herrera-Estrella.
+\newblock The {Palomero} {Genome} {Suggests} {Metal} {Effects} on
+  {Domestication}.
+\newblock {\em Science}, 326(5956):1078--1078, Nov. 2009.
+
+\bibitem{walker1976}
 T.~W. Walker and J.~K. Syers.
-\newblock {The fate of phosphorus during pedogenesis}.
-\newblock {\em Geoderma}, 15:1 19.
+\newblock The fate of phosphorus during pedogenesis.
+\newblock {\em Geoderma}, 15(1):1--19, Jan. 1976.
 
-\bibitem{Yang:2013ft}
+\bibitem{yang2013}
 X.~Yang, W.~M. Post, P.~E. Thornton, and A.~Jain.
-\newblock {The distribution of soil phosphorus for global biogeochemical
-  modeling}.
-\newblock {\em Biogeosciences}, 10:2525 2537.
+\newblock The distribution of soil phosphorus for global biogeochemical
+  modeling.
+\newblock {\em Biogeosciences}, 10(4):2525--2537, Apr. 2013.
 
 \end{thebibliography}
